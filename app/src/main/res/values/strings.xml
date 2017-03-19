@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">count counter</string>
+    <string name="button1">+3 points</string>
+    <string name="button2">+2 points</string>
+    <string name="button3">Throw</string>
+    <string name="text">Team A</string>
+    <string name="button4">+3 points</string>
+    <string name="button5">+2 points</string>
+    <string name="button6">Throw</string>
+    <string name="text2">Team B</string>
+    <string name="but">RESET</string>
+    <string name="scorea">0</string>
+    <string name="scoreb">0</string>
+</resources>
